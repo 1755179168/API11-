@@ -7,6 +7,7 @@
     "pages/CloudStorage",
     "pages/CloudDb/DbInsert",
     "pages/index_callFunctionPage",
-    "pages/test_login_server_Page1"
+    "pages/test_login_server_Page1",
+    "pages/upload_Page"
   ]
 }
